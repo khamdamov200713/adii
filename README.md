@@ -38,7 +38,7 @@ Or access the online demo here: [Live Demo](https://khamdamov200713.github.io/ad
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/khamdamov200713/adi.git
+   git clone https://github.com/khamdamov200713/adii.git
    cd adi
    
 ---
